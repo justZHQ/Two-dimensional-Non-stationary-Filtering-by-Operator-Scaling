@@ -3,8 +3,8 @@ This is the repository for the paper [Two-Dimensional Nonstationary Filtering by
 The latex citation format of the article is as follows:\
 @ARTICLE{10486981,\
   author={Zhao, Haoqi and Gao, Jinghuai},\
-  journal={IEEE Transactions on Geoscience and Remote Sensing},\ 
-  title={Two-Dimensional Nonstationary Filtering by Operator Scaling},\ 
+  journal={IEEE Transactions on Geoscience and Remote Sensing},\
+  title={Two-Dimensional Nonstationary Filtering by Operator Scaling},\
   year={2024},\
   volume={62},\
   number={},\
